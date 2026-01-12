@@ -50,6 +50,22 @@ All plots are saved and included in the repository:
 📌 Churn Probability Distribution  
 
 These visualizations help explain model performance and churn drivers clearly.
+## 📊 Model Visualizations
+
+### 🔹 Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### 🔹 Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 🔹 ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+### 🔹 Feature Importance
+![Feature Importance](images/feature_importance.png)
+
+### 🔹 Churn Probability Distribution
+![Churn Probability](images/churn_probability.png)
 
 ---
 
