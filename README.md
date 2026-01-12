@@ -56,16 +56,16 @@ These visualizations help explain model performance and churn drivers clearly.
 ![Churn Distribution](churn_distribution.png)
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### 🔹 ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### 🔹 Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ### 🔹 Churn Probability Distribution
-![Churn Probability](images/churn_probability.png)
+![Churn Probability](churn_probability.png)
 
 ---
 
