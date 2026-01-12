@@ -5,6 +5,7 @@
 
 🔗 **App URL:**  
 https://futureml02customerchurnprediction-rbryxbfn9pgqg4gxagk6kp.streamlit.app/
+---
 This project focuses on building a **Customer Churn Prediction System** using Machine Learning techniques to identify customers who are likely to discontinue a service. The solution helps businesses take **proactive retention actions** based on data-driven insights.
 
 ---
